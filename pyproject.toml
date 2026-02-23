@@ -1,6 +1,6 @@
 [project]
 name = "fiverr-mcp-server"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server for searching Fiverr gigs, sellers, and reviews"
 readme = "README.md"
 license = { text = "MIT" }
